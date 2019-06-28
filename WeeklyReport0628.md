@@ -4,7 +4,7 @@
 
 ### 1.1 Papers Read
 
-\<https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30499/street_wide_area_gal_plane_survey.pdf>
+\< https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30499/street_wide_area_gal_plane_survey.pdf \>
 #### The Diverse Science Return from a Wide-Area Survey of the Galactic Plane
 
 Although the glactic plane is often avoided in previous observations due to the high density of the stars, 
