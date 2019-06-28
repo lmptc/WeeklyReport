@@ -21,7 +21,6 @@ Introduction Notebook.ipynb (https://github.com/LSST-nonproject/sims_maf_contrib
 and Writing A New Metric.ipynb (https://github.com/LSST-nonproject/sims_maf_contrib/blob/master/tutorials/Writing%20A%20New%20Metric.ipynb).
 
 
-
 ## 2. Figures (at least 1 figure)
 
 Figure 1 : No figure produced yet.
