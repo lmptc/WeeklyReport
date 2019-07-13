@@ -25,9 +25,10 @@ Figure 1 : The number of visit when airmass is larger than 1.1 and fiveSigmaDept
 ![](https://github.com/lmptc/WeeklyReport/blob/master/Images/0712_2.png?raw=true)
 
 Figure 2 : The situation when the point of deep drilling in the figure above is removed. 
+https://github.com/lmptc/MAF/blob/master/No.%20of%20Visits%20with%20Conditions.ipynb
 
 
-### 3 Results (required)
+### 3 Results
 
 Writed the first metric that realizes a simple function. Read the codes for metricBundle and metricBundleGroup and figured out 
 the broad process of MAF.
