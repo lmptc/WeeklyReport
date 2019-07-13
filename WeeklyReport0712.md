@@ -17,19 +17,17 @@ Count the number of visits that satisfy certain conditions.
 
 ## 2. Figures
 
+![](https://github.com/lmptc/WeeklyReport/blob/master/Images/0712_1.png?raw=true)
+
+Figure 1 : The number of visit when airmass is larger than 1.1 and fiveSigmaDepth is larger than 23.
 
 
+![](https://github.com/lmptc/WeeklyReport/blob/master/Images/0712_2.png?raw=true)
+
+Figure 2 : The situation when the point of deep drilling in the figure above is removed. 
 
 
-Figure 1 : Figure 1 with a caption that describes what is being plotted. Add link to code on github that created the plot.
-
-Figure 2 : Figure 2 with a caption that describes what is being plotted. Add link to code on github that created the plot.
-
-.
-.
-.
 ### 3 Results (required)
 
-This section should be a discussion of what you did, how you did it, why you did it, and what you found.  For example,
-
-_In order to explore the extent to which dimensionality reduction plus a classifier can be used to tag each spectrum with a known spectral type, I wrote pca_classify.py (link to code) which first whitened the spectra and then used scikit-learn’s PCA functionality to decompose the sample into N=20 principle components.  The first 5 are shown in Figure 1.  The figure shows that these components are dominated by only a few spectral lines.  Figure 2 shows the explained variance as a function of the number of included principle components and suggests that N=20 is insufficient.  Nevertheless, by projecting onto these components and training an SVM classifier (using grid search on the parameters Cand ; see Figure 3) with training and testing sets of size 3,500 and 1,500 respectively, I achieved an accuracy of 80% on the testing set._
+Writed the first metric that realizes a simple function. Read the codes for metricBundle and metricBundleGroup and figured out 
+the broad process of MAF.
