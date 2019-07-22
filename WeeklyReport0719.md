@@ -12,8 +12,8 @@ a frequency is aliasing or not, and how to reduce the aliasing in the futuring a
 
 ### 1.2 Code Written
 
-[No. of Visits Under Conditions by Seasons](https://github.com/lmptc/MAF/blob/master/No.%20of%20Visits%20with%20Conditions.ipynb): 
-Count the number of visits that satisfy certain conditions. 
+[No. of Visits Under Conditions by Seasons](https://github.com/lmptc/MAF/blob/master/No.%20of%20Visits%20Under%20Conditions%20by%20Seasons.ipynb): 
+Count the number of visits for WFD by seasons in 2023, with airmass>1.1 and fiveSigmaDepth>2.3. 
 
 ## 2. Figures
 
@@ -22,11 +22,11 @@ Count the number of visits that satisfy certain conditions.
 ![](https://github.com/lmptc/WeeklyReport/blob/master/Images/0719%203Autumn.png?raw=true)
 ![](https://github.com/lmptc/WeeklyReport/blob/master/Images/0719%204Winter.png?raw=true)
 
-Figure 1 : The number of visit by seasons for WFD, when airmass is larger than 1.1 and fiveSigmaDepth is larger than 23. The four figures are
+Figure 1 : The number of visit by seasons for WFD in 2023, when airmass is larger than 1.1 and fiveSigmaDepth is larger than 23. The four figures are
 Spring, Summer, Autumn, and Winter, in order.
 
 
 ### 3 Results
 
-Writed the first metric that realizes a simple function. Read the codes for metricBundle and metricBundleGroup and figured out 
-the broad process of MAF.
+Read about signal samplings. Plot the number of visits by seasons. Tried to add the counts of different years, but have not 
+come up with a simple way to do that yet. 
