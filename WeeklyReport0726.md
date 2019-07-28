@@ -1,4 +1,4 @@
-# Ming - Week of 07/27/2019
+# Ming - Week of 07/26/2019
 
 ## 1. Papers and code
 
