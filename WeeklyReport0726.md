@@ -24,6 +24,6 @@ Figure 1 : The number of visit by seasons for WFD in from 2022 to 2032, when air
 fiveSigmaDepth is larger than 23. The blank areas are either not covered by the investigation or the number of visit is 0. It seems
 there is no obvious trend with seasons. 
 
-### 3 Results (required)
+### 3 Results
 
 Improved the code of last week so that it can investgate more than one year. The metric for measureing ailiasing is on the half way.
