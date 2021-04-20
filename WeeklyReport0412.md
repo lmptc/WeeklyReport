@@ -22,12 +22,22 @@ Introduce the .fits data that is commonly used in astronomy.
 
 ## 2. Figures (at least 1 figure)
 
-No figure generated yet. 
+![](https://github.com/lmptc/WeeklyReport/blob/master/Images/Sizes%20of%20Head%20Files.png?raw=true)
+
+Figure 1: The sizes of the head files for different events. 
+
+![](https://github.com/lmptc/WeeklyReport/blob/master/Images/Sizes%20of%20Phot%20Files.png?raw=true)
+
+Figure 2: The sizes of the photometry files for different events. 
 
 ### 3 Results (required)
 
-Tried the ways for organizing the folders and data, which is necessary for the making the statistics.
+Tried the ways for organizing the folders and data, which is necessary for making the statistics.
 
 ### 4 Planning (required)
 
-Make a program for the statistics property of the data when more information is avalaible. 
+If I get information from Professor Narayan about how to understand the data, I will make statistics for the data, like how many curves are there for each event and 
+how many data points in the curves. 
+
+If I don't get further information, I will look into the data files and try to look for any useful information and make graphs for that. 
+
